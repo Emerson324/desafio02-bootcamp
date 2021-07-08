@@ -1,0 +1,8 @@
+export const ELEMENTS = {
+    inputEmail: 'input[ng-model*=email]',
+    inputPassword: 'input[ng-model*=password]',
+    buttonSubmit: 'button.btn-primary',
+    campoEscritoFeed: 'a[ng-class*=feed]'
+
+
+}
