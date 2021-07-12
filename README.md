@@ -1,6 +1,6 @@
 # Desafio 02 - Bootcamp 
 
-## Vídeo da execução do teste dos fluxos de cadastro, login e publicação de post
+## Vídeo - Testes dos fluxos de cadastro, login e publicação de post
 
 ![Execução teste automatizado](./desafio02.gif)
 
