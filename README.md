@@ -2,7 +2,7 @@
 
 ## Vídeo da execução do teste do fluxo de cadastro
 
-![Execução teste automatizado](./cadastro.spec.js)
+![Execução teste automatizado](./cadastro.spec.js.mp4)
 
 ## Ferramenta utilizada
 Cypress
