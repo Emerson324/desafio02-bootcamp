@@ -7,7 +7,7 @@
 ## Ferramenta utilizada
 Cypress
 
-## Checklist dos itens exececutados no desafio
+## Checklist dos itens executados no desafio
 
 [✓] Testar site https://demo.realworld.io/#/
 
