@@ -1,8 +1,8 @@
 # Desafio 02 - Bootcamp 
 
-## Vídeo da execução do teste do fluxo de cadastro
+## Vídeo da execução do teste dos fluxos de cadastro, login e publicação de post
 
-![Execução teste automatizado](./cadastro.spec.js.gif)
+![Execução teste automatizado](./desafio02.gif)
 
 ## Ferramenta utilizada
 Cypress
